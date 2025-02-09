@@ -52,6 +52,3 @@ This repository contains code for managing property portfolios using a Java-base
 - Existing properties can be edited or removed through the GUI.
 - The portfolio summary provides an overview of all properties, displaying key information and statistics.
 
----
-
-*Note: This README is based on the available information from the repository as of February 9, 2025.* 
